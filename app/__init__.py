@@ -1,1 +1,1 @@
-"""Beginner FastAPI application package."""
+"""Employee Management API application package."""
